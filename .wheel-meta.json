@@ -1,0 +1,22 @@
+{
+  "wheel_id": 681,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-com-152",
+  "project": "web-design-sydney-how-to-choose-7227f593b39793f9ea4e08a4cd2d540",
+  "parent_t1_ref": "webdesignsydneyaustralia.com-007",
+  "node_role": "buffer",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney how to choose",
+  "intended_url": "https://aumedia.neocities.org/web-design-sydney-how-to-choose-7227f593b39793f9ea4e08a4cd2d540/",
+  "tier": "T2",
+  "writeback_nonce": "440f7c918503d250",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/webdesignsydneyaustralia.com-007/web-design-sydney.html",
+      "anchor": "https://s3.ap-southeast-2.amazonaws.com/webdesignsydneyaustralia.com-007/web-design-sydney.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
